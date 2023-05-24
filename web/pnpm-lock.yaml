@@ -14,10 +14,10 @@ dependencies:
     specifier: 10.4.14
     version: 10.4.14(postcss@8.4.23)
   axios:
-    specifier: ^1.4.0
+    specifier: 1.4.0
     version: 1.4.0
   dayjs:
-    specifier: ^1.11.7
+    specifier: 1.11.7
     version: 1.11.7
   eslint:
     specifier: 8.40.0
@@ -26,13 +26,13 @@ dependencies:
     specifier: 13.4.2
     version: 13.4.2(eslint@8.40.0)(typescript@5.0.4)
   js-cookie:
-    specifier: ^3.0.5
+    specifier: 3.0.5
     version: 3.0.5
   jwt-decode:
-    specifier: ^3.1.2
+    specifier: 3.1.2
     version: 3.1.2
   lucide-react:
-    specifier: ^0.217.0
+    specifier: 0.217.0
     version: 0.217.0(react@18.2.0)
   next:
     specifier: 13.4.2
@@ -58,7 +58,7 @@ devDependencies:
     specifier: 1.2.0
     version: 1.2.0(eslint@8.40.0)(typescript@5.0.4)
   '@types/js-cookie':
-    specifier: ^3.0.3
+    specifier: 3.0.3
     version: 3.0.3
   prettier-plugin-tailwindcss:
     specifier: 0.3.0
